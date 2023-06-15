@@ -1,5 +1,4 @@
-# Anshu_Portfolio
-Data Analyst Portfolio
+# Data Analyst Portfolio
 # [Project 1: Payment Date Prediction: Project Overview](https://github.com/anshu1516/Anshu_Portfolio/blob/main/Payment%20date%20prediction.ipynb)
 1. Understood the dataset and meaning of the terms used in columns and identified the problem.
 2. Learned some basic machine learning steps and techniques to wrangle the problem.
